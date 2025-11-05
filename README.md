@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm <Kim ku> 👋
 
 I build things for the web and love solving practical problems with clean, maintainable code. I'm a [frontend / backend / full‑stack / data] developer who enjoys working on open source, automation, and user‑centered products.
@@ -33,7 +32,7 @@ I build things for the web and love solving practical problems with clean, maint
 
 ---
 
-## Stats & Badges
+## Stats & Badges ( Based on public repos only )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimku003&layout=compact&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=kimku003&show_icons=true&theme=radical)
 
