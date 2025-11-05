@@ -1,4 +1,4 @@
-# Hi there, I'm <Kim ku> 👋
+# Hi there, I'm Kim ku 👋
 
 I build things for the web and love solving practical problems with clean, maintainable code. I'm a [frontend / backend / full‑stack / data] developer who enjoys working on open source, automation, and user‑centered products.
 
