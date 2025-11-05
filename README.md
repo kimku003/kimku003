@@ -1,16 +1,41 @@
 ## Hi there 👋
+# Hi there, I'm <Kim ku> 👋
 
-<!--
-**kimku003/kimku003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things for the web and love solving practical problems with clean, maintainable code. I'm a [frontend / backend / full‑stack / data] developer who enjoys working on open source, automation, and user‑centered products.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [Project A](https://github.com/kimku003/freesell) — Django backend for freenlancers marketplace
+- 🌱 I’m learning: Rust, GraphQL, and advanced testing strategies
+- 👯 I’m open to: collaboration, freelance work, and open source mentorship
+- 💬 Ask me about: JavaScript, TypeScript, Python, React, Node.js
+- ⚡ Fun fact: I love improving developer experience and automating repetitive tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+- [Project A](https://github.com/kimku003/Python_algos) — All algorithms implemented in Python - for education
+- [Project B](https://github.com/kimku003/agents) — This repository contains agents implementations examples, to be used with Qodo Command, showcasing best practices and common patterns for building AI-powered development workflows.
+
+
+---
+
+## Tech & Tools
+- Languages: JavaScript, TypeScript, Python
+- Frameworks: React, Next.js, Node.js, Express
+- DevOps: GitHub Actions, Docker, CI/CD
+- Databases & Others: PostgreSQL, Redis, Firebase
+
+---
+
+## Quick links
+- Portfolio: https://kimku003.github.io/3d-sites/kim.html
+- Email: kimku679@gmail.com
+- LinkedIn: https://linkedin.com/in/kim-ku-etouh
+
+---
+
+## Stats & Badges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimku003&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=kimku003&show_icons=true&theme=radical)
+
+
+---
