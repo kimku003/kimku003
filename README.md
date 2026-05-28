@@ -5,7 +5,7 @@ I build things for the web and love solving practical problems with clean, maint
 - 🔭 I’m currently working on: [Project A](https://github.com/kimku003/freesell) — Django backend for freenlancers marketplace
 - 🌱 I’m learning: Rust, GraphQL, and advanced testing strategies
 - 👯 I’m open to: collaboration, freelance work, and open source mentorship
-- 💬 Ask me about: JavaScript, TypeScript, Python, React, Node.js
+- 💬 Ask me about: Python, React, JavaScript, TypeScript, Node.js, Elixir
 - ⚡ Fun fact: I love improving developer experience and automating repetitive tasks
 
 ---
@@ -18,10 +18,10 @@ I build things for the web and love solving practical problems with clean, maint
 ---
 
 ## Tech & Tools
-- Languages: JavaScript, TypeScript, Python
-- Frameworks: React, Next.js, Node.js, Express
+- Languages: Python, TypeScript, JavaScript, Elixir
+- Frameworks: Django, React, Next.js, Node.js, Express
 - DevOps: GitHub Actions, Docker, CI/CD
-- Databases & Others: PostgreSQL, Redis, Firebase
+- Databases & Others: PostgreSQL, Redis, Supabase
 
 ---
 
